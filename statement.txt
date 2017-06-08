@@ -1,1 +1,3 @@
 1.node 通过npm加载进项目的项目要 --save  更新package
+2.stream zlib重复压缩会造成文件损坏
+3.require模块的时候如果是文件模块最好带上./之类的路径
