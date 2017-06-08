@@ -12,6 +12,6 @@ res.setHeader('Content-Type', 'text/plain');
 res.end('Hello World\n');
 });
 server.listen(port, hostname, () => {
-    console.log(`服务器运行在 http://${hostname}:${port}/`);
+    console.log(`鍟﹀暒鍟﹀暒鍟﹀暒 http://${hostname}:${port}/`);
     });
 
